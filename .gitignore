@@ -25,3 +25,9 @@ hs_err_pid*
 /.idea/compiler.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml
+/.idea/libraries/Maven__*.xml
+
+/*/target/*
+/im-receiver/im-receiver-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/.idea/modules.xml
